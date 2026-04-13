@@ -44,9 +44,9 @@ This project demonstrates the implementation of "Simple & Multiple Linear Regres
  📈 Results
 | Metric | Value |
 |--------|------|
-| MAE | (your output) |
-| MSE | (your output) |
-| R² Score | (your output)|
+| MAE | 1265275.6699454375 |
+| MSE | 2750040479309.0513 |
+| R² Score | 0.45592991188724474 |
 
 ---
 
